@@ -1,0 +1,7 @@
+PORTS = -p 4022:22
+
+##VOLUMES = -v "$PWD/config":/usr/example/config 
+
+##ENV = -e SOME_KEY=SOME_VALUE
+
+##LINK = --link java8-default:anothercontainer
